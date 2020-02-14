@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoMoralesCaranqui</string>
+    <string name="Texto1">Universidad Israel</string>
+    <string name="Texto2">Proyecto Final</string>
+    <string name="TodasTareas">Todas mis Tareas</string>
+    <string name="NuevaTarea">Nueva Tarea</string>
+    <string name="editarTarea">Editar Tarea</string>
+    <string name="tarea">Tarea</string>
+    <string name="back"></string>
+    <string name="para">Para: </string>
+    <string name="fechaFintarea"> Fecha de Fin </string>
+    <string name="descripcion">Aqui va la descripcion de la tarea que hemos creado anteriormente</string>
+    <string name="nombretarea"> Nombre de la Tarea</string>
+    <string name="descripcionag"> Descripcion de la Tarea</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+</resources>
